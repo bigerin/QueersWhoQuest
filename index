@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Kweers Who Kwest</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="TopContainer">
+    <img class="top-cloud" src="images/dice.png" alt="cloud">
+    <h1 class="title">Queers Who Quest</h1>
+    <h2 class="subtitle">A Coupla LGBTs</h2>
+    <img src="images/mountain.png" alt="mountain">
+    <img class="bottom-cloud" src="images/dice.png" alt="cloud">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img class="dice" src="images/dice.png" alt="20 sided die">
+      <h2>Greetings, Traveler</h2>
+      <p>Join us on our adventures by listening to our most recent
+        episode! </p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>Meet us!</h2>
+      <div class="skill-row">
+        <img class="Kate" src="images/kate.JPG" alt="">
+        <h3>Kate K.</h3>
+        <p>Kate is our fearless Dungeon Master. A master of improv and creative
+          encounters, join us to hear the tales she spins.</p>
+      </div>
+      <div class="skill-row">
+        <img class="Mallory" src="images/marya.jpg" alt="">
+        <h3>Mallory</h3>
+        <p>Mallory plays theif and crook Marya. Her father was murdered
+        right in front of her eyes. She will not hesistate to take someone out,
+      if it means she can keep those close to her safe and secure.  </p>
+      </div>
+      <div class="skill-row">
+        <img class="erin" width="250" height="300" src="https://external-preview.redd.it/mpo04-y8yjT92OE2YnYZclI1tT41c_OwqUrx9MqcU6c.jpg?auto=webp&s=782849227813e613ea1247e80b3310f0a2c2d81b" alt="dnd character
+              ">
+        <h3>Erin</h3>
+        <p>Erin plays Grim Talstag, a rougue pirate horizon walker. Grim
+        has renounced the pirate life after a terrible accident claimed the
+      life of his wife</p>
+      </div>
+      <div class="skill-row">
+        <img class="Natasha" src="images/aysel.jpg" alt="">
+        <h3>Natasha</h3>
+        <p>Natasha plays Aysel, a bard who cares about their friends, and is
+        in search of a good story to sing. They are a funky little guy.</p>
+      </div>
+      <div class="skill-row">
+        <img class="Mariah" src="images/laz.jpg" alt="">
+        <h3>Mariah</h3>
+        <p>Mariah plays Lazarus Moonchild, an elf with some kind of attitude.
+        He is a spoiled brat unfortunately </p>
+      </div>
+    </div>
+<br>
+<hr>
+    <div class="contact-me">
+
+      <h2>Get In Touch</h2>
+      <br>
+      <h3>Really get to know us by following us.</h3>
+      <br>
+      <p>Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>
+  <a href="erin@harrover.com" class="myButton">Contact Me</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+    <a class="footer-link" href="https://twitter.com/">Twitter</a>
+    <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+    <p>© 2018 Name Surname.</p>
+  </div>
+
+</body>
+
+</html>
