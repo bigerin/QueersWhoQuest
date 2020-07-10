@@ -1,0 +1,145 @@
+.TopContainer {
+  position: relative;
+  padding-top: 100px;
+  background-color: #ffbd69;
+  color: #111d5e;
+  ;
+}
+.title {
+  font-size: 3em;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  margin-top: 100px;
+  font-family: 'Press Start 2P', cursive;
+  line-height: 2
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #c70039;
+}
+
+h3 {
+  color: #111d5e;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.middle-container {
+  background-color: #ffffff;
+
+
+}
+.profile {
+
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.bottom-container {
+  background-color: #111d5e;
+  color: #ffbd69;
+  padding-top: 50px;
+}
+
+img {
+  margin-right: 50px;
+}
+
+.skill-row {
+width: 50%;
+margin: 100px auto 200px auto;
+text-align: left;
+line-height: 2;
+
+}
+
+.Kate {
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.Mallory {
+  width: 25%;
+  float: right;
+  padding: 30px;
+}
+
+.erin {
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.Mariah {
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.Natasha {
+  width: 25%;
+  float: right;
+  padding: 30px;
+}
+
+.dice {
+  width: 25%;
+  height: 25%;
+}
+
+.contact-me {
+  margin-top: 100px;
+  padding-bottom: 50px;
+
+}
+
+hr {
+border-top: 10px dotted black;
+width: 10%;
+
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 16px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
